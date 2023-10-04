@@ -7,22 +7,22 @@ XYZ Fintech Company is a leading financial technology firm that provides digital
 Data Description:
 XYZ Fintech has provided you with a dataset containing historical loan application data. The dataset includes various features such as applicant information, credit history, loan amount, interest rate, and loan outcome (default or not). Your task is to build a predictive model to assess the credit risk of future loan applicants.
 
-1. Data Exploration and Preprocessing
+1. Data Exploration and Preprocessing:
 a. Perform exploratory data analysis (EDA) on the dataset. What insights can you gather from the data? Provide summary statistics, data visualisations, and identify any data cleaning or preprocessing steps needed.
 b. How will you handle missing values and outliers in the dataset? Justify your approach.
 
-2. Feature Selection and Engineering
+2. Feature Selection and Engineering:
 a. What features do you think are most relevant for predicting credit risk? Explain your reasoning.
 b. Implement at least one feature engineering technique to enhance the predictive power of the model.
 
-3. Model Building
+3. Model Building:
 a. Choose an appropriate machine learning algorithm for credit risk prediction. Explain your choice.
 b. Split the dataset into training and testing sets. Train and evaluate your model using suitable evaluation metrics. Justify your choice of evaluation metrics.
 
-4. Model Optimisation and Tuning
+4. Model Optimisation and Tuning:
 a. Implement hyperparameter tuning or model selection techniques to optimise your model's performance. Describe the approach you used.
 b. Assess the impact of different hyperparameters on model performance and choose the best combination.
 
-5. Model Interpretation and Recommendations
+5. Model Interpretation and Recommendations:
 a. How interpretable is your model? Can you explain the factors that influence its predictions? Discuss any challenges in model interpretation.
 b. Based on your model's predictions, what recommendations can you provide to XYZ Fintech to minimise credit risk and reduce defaults?
