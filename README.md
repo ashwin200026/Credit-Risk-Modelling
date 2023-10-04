@@ -7,8 +7,6 @@ XYZ Fintech Company is a leading financial technology firm that provides digital
 Data Description:
 XYZ Fintech has provided you with a dataset containing historical loan application data. The dataset includes various features such as applicant information, credit history, loan amount, interest rate, and loan outcome (default or not). Your task is to build a predictive model to assess the credit risk of future loan applicants.
 
-Assignment Questions:
-
 1. Data Exploration and Preprocessing (15 points)
 a. Perform exploratory data analysis (EDA) on the dataset. What insights can you gather from the data? Provide summary statistics, data visualisations, and identify any data cleaning or preprocessing steps needed.
 b. How will you handle missing values and outliers in the dataset? Justify your approach.
